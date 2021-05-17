@@ -83,7 +83,13 @@ data = {
             "link":"https://www.linkedin.com/in/bhomesh-razdan-9ab520201/",
             "des": "Hello I like to learn new things currently I am doing Web development and Colour Grading thanks "
         },
-    
+   {
+    "avatar": "1",
+    "name":"Rahul Suthar ",
+    "year":"CSE 1st year",
+    "link":"https://www.linkedin.com/in/rahul-suthar-8bbb60179/",
+    "des": "Learning coding and doing work on it seems very cool and with this field I can explore many more new things related to tech."
+},
     
     
     
